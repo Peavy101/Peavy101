@@ -7,7 +7,7 @@ I work in HTML, CSS and Javascript.
 
 ## Projects:
 
-[Nail the Audition] https://github.com/Peavy101/Nail-the-audition
+Nail the Audition: https://github.com/Peavy101/Nail-the-audition
 
 
  
