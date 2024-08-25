@@ -1,7 +1,7 @@
 # Hello! My name is Matthew Hardy 👋
 
 
-I am a software development student in the Get Coding program.
+I am a software quality assurance tester and student in the Get Coding program.
 
 I work in HTML, CSS and Javascript and am a beginner with the Unity game engine and C#.  
 Currently learning react and typescript.  
