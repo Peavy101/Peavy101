@@ -16,6 +16,6 @@ Nail the Audition: https://github.com/Peavy101/Nail-the-audition
 ## Stats:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peavy101&size_weight=0.5&count_weight=0.5)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peavy101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
  
