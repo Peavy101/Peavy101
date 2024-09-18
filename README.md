@@ -3,8 +3,8 @@
 
 I am a software quality assurance tester and student in the Get Coding program.
 
-I work in HTML, CSS and Javascript and I make games in the Unity game engine with C#.  
-Currently learning react and typescript.  
+I work in HTML, CSS, Javascript, and react.
+I also make games in the Unity game engine with C#!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewhardy709/)
 
