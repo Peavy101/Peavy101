@@ -1,10 +1,12 @@
 # Hello! My name is Matthew Hardy 👋
 
 
-I am a software quality assurance tester and student in the Get Coding program.
+I am a software quality assurance tester, part-time artist, and full-time nerd.
 
 I work in HTML, CSS, Javascript, and react.
-I also make games in the Unity game engine with C#!
+I also make games in the Unity game engine with C#! Done some dabbling with Unreal.
+
+Have been learning cmake, Jenkins and cpp with work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewhardy709/)
 
